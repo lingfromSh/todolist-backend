@@ -6,10 +6,10 @@
 ```bash
   .
 ├── config.py							   # 项目配置
-├── db_created						       # 用来判断sqlite数据库是否已经创建
+├── db_created						   # 用来判断sqlite数据库是否已经创建
 ├── main.db								   # SQLITE3数据库
 ├── README.md	
-├── requirements.txt			           # 项目依赖
+├── requirements.txt			   # 项目依赖
 ├── run.py								   # app
 ├── test.py								   # api测试
 ```
