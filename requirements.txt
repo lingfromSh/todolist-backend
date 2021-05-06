@@ -6,7 +6,7 @@ entrypoints==0.3
 fire==0.2.1
 flake8==3.7.9
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-SQLAlchemy==2.4.1
 get==2019.4.13
 gunicorn==20.0.4
